@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/p/static/css/main.5311fb42.css",
-    "main.js": "/github.io/p/static/js/main.5d75b7fa.js",
-    "static/js/453.b12a1191.chunk.js": "/github.io/p/static/js/453.b12a1191.chunk.js",
-    "index.html": "/github.io/p/index.html",
-    "main.5311fb42.css.map": "/github.io/p/static/css/main.5311fb42.css.map",
-    "main.5d75b7fa.js.map": "/github.io/p/static/js/main.5d75b7fa.js.map",
-    "453.b12a1191.chunk.js.map": "/github.io/p/static/js/453.b12a1191.chunk.js.map"
+    "main.css": "/p/static/css/main.5311fb42.css",
+    "main.js": "/p/static/js/main.1cb450bc.js",
+    "static/js/453.b12a1191.chunk.js": "/p/static/js/453.b12a1191.chunk.js",
+    "index.html": "/p/index.html",
+    "main.5311fb42.css.map": "/p/static/css/main.5311fb42.css.map",
+    "main.1cb450bc.js.map": "/p/static/js/main.1cb450bc.js.map",
+    "453.b12a1191.chunk.js.map": "/p/static/js/453.b12a1191.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5311fb42.css",
-    "static/js/main.5d75b7fa.js"
+    "static/js/main.1cb450bc.js"
   ]
 }
